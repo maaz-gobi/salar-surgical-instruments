@@ -10,6 +10,35 @@ SalarSurgicals is a manufacturer and exporter of premium surgical instruments ba
 
 ---
 
+## Live Website Preview
+
+🌐 **Live site:** [salarsurgicals.com](https://salarsurgicals.com)
+
+### Homepage
+[![SalarSurgicals homepage — premium surgical instruments manufacturer and exporter from Sialkot, Pakistan](screenshots/homepage.png)](screenshots/homepage.png)
+*Premium surgical instruments from Sialkot, Pakistan — ISO 13485, CE marked, FDA registered, with full OEM customization.*
+
+### Product Categories
+[![SalarSurgicals product categories — disposable drape kits, electrosurgical, liposuction cannulas, orthopedic and sterilization instruments](screenshots/categories.png)](screenshots/categories.png)
+*The complete surgical instrument catalog, organized by category — disposable drape kits, electrosurgical instruments, liposuction cannulas, orthopedic instruments, sterilization baskets & trays, and more.*
+
+### Products
+[![SalarSurgicals surgical instruments catalog — orthopedic, electrosurgical and general surgical instruments with OEM customization](screenshots/products.png)](screenshots/products.png)
+*Browse individual surgical instruments with specifications — manufactured to the highest international quality standards.*
+
+### About
+[![About SalarSurgicals — trusted Sialkot surgical instrument manufacturer, ISO certified, exporting to 45+ countries](screenshots/about.png)](screenshots/about.png)
+*A trusted Sialkot manufacturer since 2005 — ISO 13485 certified, CE marked, FDA registered, serving 45+ countries.*
+
+<details>
+<summary>📄 View full homepage screenshot</summary>
+
+[![SalarSurgicals full homepage — surgical instruments manufacturer website](screenshots/homepage-full.png)](screenshots/homepage-full.png)
+
+</details>
+
+---
+
 ## About SalarSurgicals
 
 **SalarSurgicals is a premium surgical instruments manufacturer and exporter.** Manufacturing since 2005, we produce surgical, orthopedic, and electrosurgical instruments to international quality standards and export them to distributors and OEM partners in 45+ countries.

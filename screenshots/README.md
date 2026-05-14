@@ -1,13 +1,11 @@
-# Images & Media
+# Screenshots
 
-This folder is for product photos and business media used in the showcase.
+Website screenshots used in the [main README](../README.md), captured from the live site at [salarsurgicals.com](https://salarsurgicals.com).
 
-Suggested images to add:
-- `general-instruments.jpg` — general surgical instruments
-- `orthopedic-instruments.jpg` — orthopedic instrument range
-- `electrosurgical.jpg` — electrosurgical instruments
-- `manufacturing.jpg` — manufacturing facility
-- `certifications.jpg` — ISO / CE / FDA certification display
-- `packaging.jpg` — export packaging
-
-Once added, reference them in the main [README](../README.md) to make the showcase more compelling for distributors, hospital suppliers, and OEM buyers.
+| File | Description |
+|------|-------------|
+| `homepage.png` | Homepage hero — premium surgical instruments manufacturer & exporter, Sialkot, Pakistan. |
+| `homepage-full.png` | Full homepage — value proposition, certifications, and call to action. |
+| `categories.png` | Product categories — drape kits, electrosurgical, liposuction cannulas, orthopedic, sterilization. |
+| `products.png` | Products catalog — individual surgical instruments with specifications and OEM customization. |
+| `about.png` | About page — a trusted Sialkot manufacturer since 2005, ISO 13485 / CE / FDA, 45+ countries. |
