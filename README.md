@@ -4,9 +4,15 @@
 
 SalarSurgicals is a manufacturer and exporter of premium surgical instruments based in Sialkot, Pakistan — the world's surgical instrument hub. ISO-certified and CE-marked, we supply distributors and OEM brands across the globe.
 
+[![Visit Live Website](https://img.shields.io/badge/%F0%9F%8C%90%20Visit%20Live%20Website-salarsurgicals.com-2ea44f?style=for-the-badge)](https://salarsurgicals.com)
+
 [![Industry](https://img.shields.io/badge/industry-surgical%20instruments-blue)]()
 [![Quality](https://img.shields.io/badge/quality-ISO%2013485%20%7C%20CE-success)]()
 [![Export](https://img.shields.io/badge/export-45%2B%20countries-orange)]()
+
+### 🌐 Live Website: **[salarsurgicals.com](https://salarsurgicals.com)**
+
+Browse the full surgical instrument catalog, request a quote, or order samples directly on the live site.
 
 ---
 
