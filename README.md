@@ -1,5 +1,35 @@
 # SalarSurgicals — Premium Surgical Instruments Manufacturer & Exporter
 
+<!-- recruiter-snapshot:start -->
+## Recruiter Snapshot
+
+**What this shows:** B2B manufacturer/exporter website for surgical instruments with catalog, quality, and export positioning.
+
+**My role / team role:** Built the public web presence case study, product/category structure, export messaging, and SEO-oriented documentation.
+
+**Public proof:** Screenshots show homepage, categories, products, about page, and full homepage preview, plus the live website link.
+
+**Tech and implementation areas:**
+- PHP/HTML website
+- SEO content structure
+- Product catalog
+- B2B manufacturer positioning
+- Responsive web UI
+
+**Relevant roles this project supports:**
+- Full-Stack Web Developer
+- B2B Website Developer
+- SEO Web Developer
+- Export Business Web Developer
+
+## Source Code Access
+
+This is a public case-study repository. The production source code is private because it may contain proprietary business logic, client workflows, credentials, deployment details, or reusable internal implementation patterns. The public repo is intentionally focused on the product, screenshots, workflow, architecture, and evaluation material.
+
+For technical review, we can provide a live demo walkthrough, private repository access under NDA, a code screen-share, architecture review, or redacted implementation samples.
+<!-- recruiter-snapshot:end -->
+
+
 > **Premium surgical, orthopedic, and electrosurgical instruments — manufactured in Sialkot, Pakistan, exported worldwide.**
 
 SalarSurgicals is a manufacturer and exporter of premium surgical instruments based in Sialkot, Pakistan — the world's surgical instrument hub. ISO-certified and CE-marked, we supply distributors and OEM brands across the globe.
